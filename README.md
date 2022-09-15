@@ -1,7 +1,7 @@
 # Artificial-Intelligence-prepare-in-hackerrank-
-Botclean Partially Observable-(Hard) [leaderboard-Sri Lanka](https://www.hackerrank.com/challenges/botcleanv2/leaderboard/filter/country=Sri%20Lanka)
+Botclean Partially Observable-(**Hard**) [leaderboard-Sri Lanka](https://www.hackerrank.com/challenges/botcleanv2/leaderboard/filter/country=Sri%20Lanka)
 
-Botclean Large-(Hard) [leaderboard-Sri Lanka](https://www.hackerrank.com/challenges/botcleanlarge/leaderboard/filter/country=Sri%20Lanka)
+Botclean Large-(**Hard**) [leaderboard-Sri Lanka](https://www.hackerrank.com/challenges/botcleanlarge/leaderboard/filter/country=Sri%20Lanka)
 
 Bot saves princess [leaderboard-Sri Lanka](https://www.hackerrank.com/challenges/saveprincess/leaderboard/filter/country=Sri%20Lanka )
  
